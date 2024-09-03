@@ -28,5 +28,6 @@ This game is capture the money. The rules of the game are simply that the player
 - Two characters cannot overlap, and characters cannot exit the board. When you do one of these two, you stay still in your place. 
 
 ### 5. main Function
-- Firstly, you enter the size of board. If board size you entered is smaller than 5, writes eror message. After the size information is received, the board creation function is called. Then places player1 and player2. Afterward the game stars. If all money is collected, the game is over. The player who collects the most money wins the game. Don't forget you can win by collecting  less money quantity. 
-- Enjoy this game :)
+- Firstly, you enter the size of board. If board size you entered is smaller than 5, writes eror message. After the size information is received, the board creation function is called. Then places player1 and player2. Afterward the game stars. If all money is collected, the game is over. The player who collects the most money wins the game. Don't forget you can win by collecting  less money quantity.
+  ##
+Enjoy this game :)
